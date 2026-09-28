@@ -1,0 +1,28 @@
+# SimpleAct — DSFA und Grundrechte-Folgenabschätzung
+
+> Wie sich die Datenschutz-Folgenabschätzung nach Art. 35 DSGVO und die Grundrechte-Folgenabschätzung nach Art. 27 EU AI Act unterscheiden, überschneiden und gemeinsam führen lassen. Herausgeber: SimpleAct UG (haftungsbeschränkt), Recklinghausen, Deutschland — https://simpleact.de
+
+Kernaussage: gemeinsame Faktenbasis, getrennte Bewertung. Beschreibung des Systems, Datenkategorien, betroffene Personen und Zweck werden einmal erhoben; die Bewertung bleibt getrennt, weil die Maßstäbe unterschiedlich sind und unterschiedliche Behörden sie einsehen.
+
+## Unterschiede auf einen Blick
+
+Die DSFA schützt personenbezogene Daten, wird vom Verantwortlichen erstellt, fragt nach Notwendigkeit und Verhältnismäßigkeit und führt bei hohem Restrisiko zur vorherigen Konsultation der Datenschutzaufsicht nach Art. 36 DSGVO.
+
+Die Grundrechte-Folgenabschätzung schützt Grundrechte insgesamt, trifft bestimmte **Betreiber** von Hochrisiko-Systemen nach Anhang III, fragt nach betroffenen Grundrechten und Schutzmaßnahmen und wird der Marktüberwachungsbehörde mitgeteilt.
+
+## Wissensbasis
+
+- [DSFA nach Art. 35 DSGVO](knowledge-base/dsfa-art-35.md): Schwellwertprüfung als eigenes Dokument, die vier Bestandteile nach Art. 35 Abs. 7, Restrisiko und Konsultationspflicht, Beteiligung von DSB und Betroffenenvertretung, Überprüfungsauslöser.
+- [Grundrechte-Folgenabschätzung nach Art. 27](knowledge-base/grundrechte-art-27.md): Abgrenzung zur DSFA, betroffene Grundrechte, Anforderungen an menschliche Aufsicht nach Art. 14 einschließlich Information, Zeit und Befugnis, Verhältnis zur Anbieterdokumentation.
+- [Verzahnung](knowledge-base/verzahnung.md): was sich teilen lässt, was getrennt bleiben muss, empfohlene Reihenfolge, Verbindung zu Verarbeitungsverzeichnis und KI-Inventar.
+
+## Vorlagen
+
+- [DSFA](templates/dsfa.md) mit vorangestellter Schwellwertprüfung, die auch bei negativem Ergebnis auszufüllen ist.
+- [Grundrechte-Folgenabschätzung](templates/grundrechte-folgenabschaetzung.md) mit Anwendbarkeitsprüfung, Grundrechtematrix und Abschnitt zur Abweichungsquote der menschlichen Aufsicht.
+
+## Hinweise
+
+Der Anwendungsbereich des Art. 27 ist enger als „alle Hochrisiko-Systeme" und gehört am geltenden Verordnungstext geprüft. Fristen und Anwendungsbereiche ändern sich durch Änderungsverordnungen.
+
+Keine Rechtsberatung. Stand: September 2026. Lizenz: MIT.

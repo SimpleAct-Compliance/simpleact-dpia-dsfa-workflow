@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+title: DSFA und Grundrechte-Folgenabschätzung
+message: "If you use this repository, please cite it as part of the SimpleAct AI Governance Framework."
+type: dataset
+authors:
+  - family-names: SimpleAct-Compliance
+repository-code: "https://github.com/SimpleAct-Compliance/simpleact-dpia-dsfa-workflow"
+license: MIT
+abstract: "How the data protection impact assessment under Art. 35 GDPR and the fundamental rights impact assessment under Art. 27 EU AI Act differ, overlap and can be run as one process with a shared factual basis and separate assessments."
+keywords:
+  - EU AI Act
+  - GDPR
+  - DPIA
+  - DSFA
+  - fundamental rights impact assessment
+  - Art. 27
+  - Art. 35
+  - AI governance
+  - SimpleAct
