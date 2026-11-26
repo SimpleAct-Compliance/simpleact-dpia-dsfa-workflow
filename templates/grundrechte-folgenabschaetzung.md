@@ -9,9 +9,9 @@ Zum Ausfüllen. Diese Bewertung ergänzt die DSFA, sie ersetzt sie nicht.
 | Frage | Antwort |
 |---|---|
 | Sind wir **Betreiber** dieses Systems? | ja / nein |
-| Fällt das System unter **Anhang III**? | ja / nein — Kategorie: ______ |
+| Fällt das System unter **Anhang III**? | ja / nein – Kategorie: ______ |
 | Gehören wir zu den von Art. 27 erfassten Betreibern? | ja / nein |
-| **Ergebnis** | Grundrechte-FA erforderlich — ja / nein |
+| **Ergebnis** | Grundrechte-FA erforderlich – ja / nein |
 | Geprüft von / am | |
 
 *Der Anwendungsbereich ist enger als „alle Hochrisiko-Systeme". Das Ergebnis gehört auch bei Nein dokumentiert.*
@@ -67,7 +67,7 @@ Zum Ausfüllen. Diese Bewertung ergänzt die DSFA, sie ersetzt sie nicht.
 | **Welche Informationen liegen bei der Entscheidung vor?** | *nur das Ergebnis oder auch die tragenden Gründe?* |
 | **Wie viel Zeit steht je Fall zur Verfügung?** | |
 | Kann die Person abweichen, ohne sich zu rechtfertigen? | ja / nein |
-| **Wird die Abweichungsquote gemessen?** | ja / nein — aktueller Wert: ______ |
+| **Wird die Abweichungsquote gemessen?** | ja / nein – aktueller Wert: ______ |
 | Kann der Betrieb angehalten werden? Durch wen? | |
 
 *Eine Abweichungsquote von null bedeutet nicht, dass das System perfekt ist. Sie bedeutet meist, dass niemand hinsieht.*
@@ -101,4 +101,4 @@ Zum Ausfüllen. Diese Bewertung ergänzt die DSFA, sie ersetzt sie nicht.
 
 ---
 
-MIT-Lizenz, frei verwendbar. Keine Rechtsberatung. Vorlage von [SimpleAct](https://simpleact.de) · Stand September 2026
+MIT-Lizenz, frei verwendbar. Keine Rechtsberatung. Vorlage von [SimpleAct](https://simpleact.de) · Stand November 2026

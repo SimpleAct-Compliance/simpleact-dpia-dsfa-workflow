@@ -1,6 +1,6 @@
 # DSFA und Grundrechte-Folgenabschätzung
 
-**Zwei Folgenabschätzungen, ein Vorgang** — Datenschutz-Folgenabschätzung nach Art. 35 DSGVO und Grundrechte-Folgenabschätzung nach Art. 27 EU AI Act, sauber getrennt und dort verbunden, wo sie sich überschneiden.
+**Zwei Folgenabschätzungen, ein Vorgang** – Datenschutz-Folgenabschätzung nach Art. 35 DSGVO und Grundrechte-Folgenabschätzung nach Art. 27 EU AI Act, sauber getrennt und dort verbunden, wo sie sich überschneiden.
 
 *Data protection impact assessment (Art. 35 GDPR) and fundamental rights impact assessment (Art. 27 EU AI Act): where they differ, where they overlap, and how to run them as one process.*
 
@@ -20,7 +20,7 @@ Sie sind nicht dasselbe:
 | **Kernfrage** | Ist die Verarbeitung notwendig und verhältnismäßig? | Welche Grundrechte können betroffen sein, und was schützt sie? |
 | **Behörde** | vorherige Konsultation bei hohem Restrisiko, Art. 36 | Mitteilung an die Marktüberwachungsbehörde |
 
-Ein KI-gestütztes Bewerbungsverfahren kann beide auslösen. Eine Betrugserkennung ohne Personenbezug keine von beiden. Eine biometrische Zutrittskontrolle im Zweifel beide — und zusätzlich die Frage nach einem Verbot.
+Ein KI-gestütztes Bewerbungsverfahren kann beide auslösen. Eine Betrugserkennung ohne Personenbezug keine von beiden. Eine biometrische Zutrittskontrolle im Zweifel beide – und zusätzlich die Frage nach einem Verbot.
 
 ## Für wen
 
@@ -53,6 +53,6 @@ Das spart die Doppelarbeit, ohne die Prüfbarkeit zu verlieren: Eine Aufsichtsbe
 
 ## Stand und Lizenz
 
-Zuletzt aktualisiert: 2026-09-28 · MIT — frei nutzbar, auch kommerziell.
+Zuletzt aktualisiert: 2026-11-26 · MIT – frei nutzbar, auch kommerziell.
 
 Keine Rechtsberatung. Die Angaben ersetzen keine Prüfung des Einzelfalls.

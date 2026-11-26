@@ -4,7 +4,7 @@
 
 **Gemeinsame Faktenbasis, getrennte Bewertung.**
 
-Beide Folgenabschätzungen brauchen dieselbe Beschreibung des Systems. Beide fragen, wer betroffen ist. Beide wollen wissen, welche Daten hineingehen. Diese Angaben zweimal zu erheben ist Verschwendung — und erzeugt Widersprüche, sobald sich etwas ändert und nur ein Dokument nachgezogen wird.
+Beide Folgenabschätzungen brauchen dieselbe Beschreibung des Systems. Beide fragen, wer betroffen ist. Beide wollen wissen, welche Daten hineingehen. Diese Angaben zweimal zu erheben ist Verschwendung – und erzeugt Widersprüche, sobald sich etwas ändert und nur ein Dokument nachgezogen wird.
 
 Die *Bewertung* darf dagegen nicht verschmelzen, weil die Maßstäbe unterschiedlich sind und unterschiedliche Behörden sie sehen wollen.
 
@@ -33,10 +33,10 @@ Die *Bewertung* darf dagegen nicht verschmelzen, weil die Maßstäbe unterschied
 
 ## Die Reihenfolge, die Arbeit spart
 
-1. **System erfassen** — einmal, vollständig, mit Version und Modellstand.
-2. **Rolle klären** — seid ihr Anbieter, Betreiber oder beides? Davon hängt ab, welche Pflichten überhaupt greifen.
-3. **Risikoklasse bestimmen** — fällt das System unter Anhang III? Das entscheidet über Art. 27.
-4. **Schwellwertprüfung DSGVO** — ist eine DSFA erforderlich? Ergebnis dokumentieren, auch bei Nein.
+1. **System erfassen** – einmal, vollständig, mit Version und Modellstand.
+2. **Rolle klären** – seid ihr Anbieter, Betreiber oder beides? Davon hängt ab, welche Pflichten überhaupt greifen.
+3. **Risikoklasse bestimmen** – fällt das System unter Anhang III? Das entscheidet über Art. 27.
+4. **Schwellwertprüfung DSGVO** – ist eine DSFA erforderlich? Ergebnis dokumentieren, auch bei Nein.
 5. **Beide Bewertungen** auf der gemeinsamen Basis, getrennt bewertet.
 6. **Restrisiken** getrennt einstufen, Konsultations- und Mitteilungspflichten prüfen.
 7. **Freigaben** einholen, Prüfdatum setzen, Auslöser definieren.
@@ -55,7 +55,7 @@ Wer sie verknüpft, bekommt zwei Dinge geschenkt: Änderungen müssen nur an ein
 
 **Die Grundrechte-FA als Kapitel der DSFA.** Sie hat einen anderen Adressaten und einen anderen Prüfmaßstab. Ein Anhang wird im Zweifel nicht als eigenständige Bewertung anerkannt.
 
-**Beide einmal und nie wieder.** Beide verlangen Aktualisierung bei wesentlicher Änderung. Bei KI-Systemen tritt die häufiger ein als bei klassischer Software — oft ohne Zutun der eigenen Organisation.
+**Beide einmal und nie wieder.** Beide verlangen Aktualisierung bei wesentlicher Änderung. Bei KI-Systemen tritt die häufiger ein als bei klassischer Software – oft ohne Zutun der eigenen Organisation.
 
 **Die Schwellwertprüfung wird nicht dokumentiert.** Ein „wir haben geprüft, es war nicht nötig" ohne Papier ist im Prüfungsfall wertlos.
 

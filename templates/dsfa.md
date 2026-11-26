@@ -6,7 +6,7 @@ Zum Ausfüllen. Kursive Hinweise erklären, warum ein Feld gebraucht wird, und k
 
 ## 0. Schwellwertprüfung
 
-*Diese Seite wird auch dann ausgefüllt, wenn das Ergebnis „keine DSFA erforderlich" lautet — sie ist dann die Begründung.*
+*Diese Seite wird auch dann ausgefüllt, wenn das Ergebnis „keine DSFA erforderlich" lautet – sie ist dann die Begründung.*
 
 | Kriterium | trifft zu | Begründung |
 |---|---|---|
@@ -15,7 +15,7 @@ Zum Ausfüllen. Kursive Hinweise erklären, warum ein Feld gebraucht wird, und k
 | Systematische umfangreiche Überwachung öffentlich zugänglicher Bereiche | ja / nein | |
 | Auf der Positivliste der zuständigen Aufsichtsbehörde | ja / nein | |
 
-**Ergebnis:** DSFA erforderlich — ja / nein · **Geprüft von / am:** ______
+**Ergebnis:** DSFA erforderlich – ja / nein · **Geprüft von / am:** ______
 
 ## 1. Gegenstand
 
@@ -30,7 +30,7 @@ Zum Ausfüllen. Kursive Hinweise erklären, warum ein Feld gebraucht wird, und k
 
 ## 2. Systematische Beschreibung
 
-*Zweck, Ablauf, Datenflüsse. Bei KI-Systemen zusätzlich: Was tut das Modell, worauf wurde es trainiert, welche Daten sieht es im Betrieb, und wie stark bestimmt seine Ausgabe die Entscheidung — Vorschlag, Vorentscheidung oder automatische Entscheidung?*
+*Zweck, Ablauf, Datenflüsse. Bei KI-Systemen zusätzlich: Was tut das Modell, worauf wurde es trainiert, welche Daten sieht es im Betrieb, und wie stark bestimmt seine Ausgabe die Entscheidung – Vorschlag, Vorentscheidung oder automatische Entscheidung?*
 
 | | |
 |---|---|
@@ -102,4 +102,4 @@ Zum Ausfüllen. Kursive Hinweise erklären, warum ein Feld gebraucht wird, und k
 
 ---
 
-MIT-Lizenz, frei verwendbar. Keine Rechtsberatung. Vorlage von [SimpleAct](https://simpleact.de) · Stand September 2026
+MIT-Lizenz, frei verwendbar. Keine Rechtsberatung. Vorlage von [SimpleAct](https://simpleact.de) · Stand November 2026

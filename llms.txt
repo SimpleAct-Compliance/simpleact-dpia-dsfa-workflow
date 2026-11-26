@@ -1,6 +1,6 @@
-# SimpleAct — DSFA und Grundrechte-Folgenabschätzung
+# SimpleAct – DSFA und Grundrechte-Folgenabschätzung
 
-> Wie sich die Datenschutz-Folgenabschätzung nach Art. 35 DSGVO und die Grundrechte-Folgenabschätzung nach Art. 27 EU AI Act unterscheiden, überschneiden und gemeinsam führen lassen. Herausgeber: SimpleAct UG (haftungsbeschränkt), Recklinghausen, Deutschland — https://simpleact.de
+> Wie sich die Datenschutz-Folgenabschätzung nach Art. 35 DSGVO und die Grundrechte-Folgenabschätzung nach Art. 27 EU AI Act unterscheiden, überschneiden und gemeinsam führen lassen. Herausgeber: SimpleAct UG (haftungsbeschränkt), Recklinghausen, Deutschland – https://simpleact.de
 
 Kernaussage: gemeinsame Faktenbasis, getrennte Bewertung. Beschreibung des Systems, Datenkategorien, betroffene Personen und Zweck werden einmal erhoben; die Bewertung bleibt getrennt, weil die Maßstäbe unterschiedlich sind und unterschiedliche Behörden sie einsehen.
 
@@ -25,4 +25,4 @@ Die Grundrechte-Folgenabschätzung schützt Grundrechte insgesamt, trifft bestim
 
 Der Anwendungsbereich des Art. 27 ist enger als „alle Hochrisiko-Systeme" und gehört am geltenden Verordnungstext geprüft. Fristen und Anwendungsbereiche ändern sich durch Änderungsverordnungen.
 
-Keine Rechtsberatung. Stand: September 2026. Lizenz: MIT.
+Keine Rechtsberatung. Stand: November 2026. Lizenz: MIT.
